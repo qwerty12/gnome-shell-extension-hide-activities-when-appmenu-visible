@@ -1,0 +1,6 @@
+{
+"shell-version": ["3.10", "3.12", "3.14", "3.16", "3.18", "3.20", "3.22", "3.24", "3.28"],
+"uuid": "hide-activities-when-appmenu-visible@pk.qwerty12",
+"name": "Hide Activities when AppMenu visible",
+"description": "Hide Activities when the AppMenu is visible"
+}
